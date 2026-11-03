@@ -92,8 +92,8 @@ The dataset used is the **UCI Heart Disease dataset**, which contains 303 record
 ---
 
 ## 👨‍💻 Author  
-Developed by Himavarsha
-📧 Email: varshanootheti@email.com  
+Developed by Hema Kumba
+📧 Email: kumbahema187@email.com  
 🌐 Portfolio / LinkedIn / GitHub (optional)  
 
 ---
